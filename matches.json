@@ -1,1 +1,19 @@
-
+[
+  {
+    "desscricao": "Eleiminatórias de 2022",
+    "local":{
+      "nome": "Maracanã",
+      "imagem": ""
+  },
+    "mandante": {
+      "nome": "Brasil",
+      "forca": 5,
+       "imagem": ""
+    },
+    },
+    "visitante": {
+      "nome": "Argentina",
+      "forca": 5,
+       "imagem": ""
+    },
+]  
